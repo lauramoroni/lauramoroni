@@ -1,11 +1,11 @@
 # Olá, me chamo Laura!
 ### Bem vindo ao meu perfil Github
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
  Eu sou uma estudante do terceiro período de Ciência da Computação com uma paixão por aprender e explorar novas tecnologias. Embora eu ainda não tenha um foco de área definido, estou sempre animada para expandir meus conhecimentos!
 </p>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ##
 ### Formas de contato:
