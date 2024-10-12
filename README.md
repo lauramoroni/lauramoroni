@@ -1,8 +1,6 @@
 # Olá, me chamo Laura!
 ### Bem vindo ao meu perfil Github
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
  - Estudante de Ciência da Computação
  - Membro de Desenvolvimento da Equipe PegAzuls Aerodesign.
 
