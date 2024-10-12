@@ -3,9 +3,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
- Eu sou uma estudante do terceiro período de Ciência da Computação com uma paixão por aprender e explorar novas tecnologias. Embora eu ainda não tenha um foco de área definido, estou sempre animada para expandir meus conhecimentos!
-</p>
+ - Estudante de Ciência da Computação
+ - Membro de Desenvolvimento da Equipe PegAzuls Aerodesign.
 
 ##
 ### Formas de contato:
@@ -20,7 +19,10 @@
 ##
 ### Ferramentas e Tecnologias
 #### Linguagens
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="40" height="40"/>       
+
+#### Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>          
 
 #### Banco de dados 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
